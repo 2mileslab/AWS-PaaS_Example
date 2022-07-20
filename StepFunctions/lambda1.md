@@ -1,6 +1,6 @@
 ```
-console.log('Loading function’);
-const AWS = require('aws-sdk’);
+console.log('Loading function');
+const AWS = require('aws-sdk');
 const DRIVER_NAME = "Driver1"; // Driver 값 확인 필요
 const MAX_WAIT = 10; //Wait calculated in 100s of milliseconds
 const MIN_WAIT = 0; //Wait calculated in 100s of milliseconds
